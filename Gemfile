@@ -63,3 +63,6 @@ gem 'devise'
 gem 'bootstrap-sass', '>= 3.4.1'
 gem 'jquery-rails'
 gem 'autoprefixer-rails'
+
+# Adds the ability to generate test data
+gem 'faker'
